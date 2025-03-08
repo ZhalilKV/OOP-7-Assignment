@@ -3,7 +3,7 @@ A modern calculator application built with Python and PyQt5, following the Model
 ![Снимок экрана 2025-03-08 171344](https://github.com/user-attachments/assets/39717534-59e0-48d0-91fd-0fee5bc5615f)
 
 
-Features
+*Features
 
 - **Basic Operations**: Addition, subtraction, multiplication, division
 - **Clear Function**: Reset calculator with single button press
